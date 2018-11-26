@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://</string>
+					<string>https://github.com/guowenkui/Java-HuLue/blob/master/RongziTong.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>RongziTong</string>
+				<string>东方融资网</string>
 			</dict>
 		</dict>
 	</array>
